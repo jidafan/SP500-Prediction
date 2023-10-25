@@ -1,1 +1,1 @@
-# SP500-Prediction
+# SP500 Prediction
